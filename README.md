@@ -8,5 +8,5 @@
  - Обновление контента по свайпу сверху вниз,
  - Возможность сохранить/удалить картинки из вкладки "Любимые".
 
-<img width="626" alt="1" src="https://github.com/aay92/ImageLoader/assets/47569754/c50ced83-faf0-4c1c-8dee-7fd6f82b5ad3">
-<img width="626" alt="2" src="https://github.com/aay92/ImageLoader/assets/47569754/fbf67862-76ec-4d41-b29e-c79f50e81661">
+<img width="313" alt="1" src="https://github.com/aay92/ImageLoader/assets/47569754/c50ced83-faf0-4c1c-8dee-7fd6f82b5ad3">
+<img width="313" alt="2" src="https://github.com/aay92/ImageLoader/assets/47569754/fbf67862-76ec-4d41-b29e-c79f50e81661">
